@@ -1,0 +1,14 @@
+C:\Users\hnidy\My Folders\ITSTEP Work\ДЗ\C#_ДЗ\InterfacesTask\InterfacesTask\bin\Debug\InterfacesTask.exe.config
+C:\Users\hnidy\My Folders\ITSTEP Work\ДЗ\C#_ДЗ\InterfacesTask\InterfacesTask\bin\Debug\InterfacesTask.exe
+C:\Users\hnidy\My Folders\ITSTEP Work\ДЗ\C#_ДЗ\InterfacesTask\InterfacesTask\bin\Debug\InterfacesTask.pdb
+C:\Users\hnidy\My Folders\ITSTEP Work\ДЗ\C#_ДЗ\InterfacesTask\InterfacesTask\obj\Debug\InterfacesTask.csproj.AssemblyReference.cache
+C:\Users\hnidy\My Folders\ITSTEP Work\ДЗ\C#_ДЗ\InterfacesTask\InterfacesTask\obj\Debug\InterfacesTask.csproj.CoreCompileInputs.cache
+C:\Users\hnidy\My Folders\ITSTEP Work\ДЗ\C#_ДЗ\InterfacesTask\InterfacesTask\obj\Debug\InterfacesTask.exe
+C:\Users\hnidy\My Folders\ITSTEP Work\ДЗ\C#_ДЗ\InterfacesTask\InterfacesTask\obj\Debug\InterfacesTask.pdb
+C:\Users\Катерина\Desktop\InterfacesTask\InterfacesTask\obj\Debug\InterfacesTask.csproj.AssemblyReference.cache
+C:\Users\Катерина\Desktop\InterfacesTask\InterfacesTask\obj\Debug\InterfacesTask.csproj.CoreCompileInputs.cache
+C:\Users\Катерина\Desktop\InterfacesTask\InterfacesTask\obj\Debug\InterfacesTask.exe
+C:\Users\Катерина\Desktop\InterfacesTask\InterfacesTask\obj\Debug\InterfacesTask.pdb
+C:\Users\Катерина\Desktop\InterfacesTask\InterfacesTask\bin\Debug\InterfacesTask.exe.config
+C:\Users\Катерина\Desktop\InterfacesTask\InterfacesTask\bin\Debug\InterfacesTask.exe
+C:\Users\Катерина\Desktop\InterfacesTask\InterfacesTask\bin\Debug\InterfacesTask.pdb
